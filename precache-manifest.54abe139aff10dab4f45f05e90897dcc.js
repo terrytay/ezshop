@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca5316984becc0ed776a02da3bd093cb",
+    "revision": "eb619afac546e69e47f0f49972abc5b7",
     "url": "/ezshop/index.html"
   },
   {
-    "revision": "dd4832003aa82995e555",
+    "revision": "eb9d014ea58c6a0482f6",
     "url": "/ezshop/static/css/2.896ebc3e.chunk.css"
   },
   {
-    "revision": "893a67216e71d57ac209",
+    "revision": "40b3250f073ede60f100",
     "url": "/ezshop/static/css/main.be8aac13.chunk.css"
   },
   {
-    "revision": "dd4832003aa82995e555",
-    "url": "/ezshop/static/js/2.d422e603.chunk.js"
+    "revision": "eb9d014ea58c6a0482f6",
+    "url": "/ezshop/static/js/2.0a4a62a1.chunk.js"
   },
   {
     "revision": "e9875d7c1187f4f0558e7fbac051f48d",
-    "url": "/ezshop/static/js/2.d422e603.chunk.js.LICENSE.txt"
+    "url": "/ezshop/static/js/2.0a4a62a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "893a67216e71d57ac209",
-    "url": "/ezshop/static/js/main.a0415385.chunk.js"
+    "revision": "40b3250f073ede60f100",
+    "url": "/ezshop/static/js/main.c3340809.chunk.js"
   },
   {
     "revision": "49ae3a3a465d1d9d897e",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5a9aea2b82a57fe5be5860d2a4540edf",
     "url": "/ezshop/static/media/collate.5a9aea2b.png"
+  },
+  {
+    "revision": "40339d0dbbaf1df019d236d35265cb5f",
+    "url": "/ezshop/static/media/conclusion.40339d0d.png"
   },
   {
     "revision": "67af05e12311bac06327b43ca31e166b",
