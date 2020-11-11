@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ezshop/static/css/main.be8aac13.chunk.css",
-    "main.js": "/ezshop/static/js/main.b645987e.chunk.js",
-    "main.js.map": "/ezshop/static/js/main.b645987e.chunk.js.map",
+    "main.js": "/ezshop/static/js/main.3fc844da.chunk.js",
+    "main.js.map": "/ezshop/static/js/main.3fc844da.chunk.js.map",
     "runtime-main.js": "/ezshop/static/js/runtime-main.d408d340.js",
     "runtime-main.js.map": "/ezshop/static/js/runtime-main.d408d340.js.map",
     "static/css/2.896ebc3e.chunk.css": "/ezshop/static/css/2.896ebc3e.chunk.css",
     "static/js/2.c1d694af.chunk.js": "/ezshop/static/js/2.c1d694af.chunk.js",
     "static/js/2.c1d694af.chunk.js.map": "/ezshop/static/js/2.c1d694af.chunk.js.map",
     "index.html": "/ezshop/index.html",
-    "precache-manifest.b1a77c2f4f589155a799cb5b7b949d53.js": "/ezshop/precache-manifest.b1a77c2f4f589155a799cb5b7b949d53.js",
+    "precache-manifest.36fa2c921183aac4b861b521b0b87d85.js": "/ezshop/precache-manifest.36fa2c921183aac4b861b521b0b87d85.js",
     "service-worker.js": "/ezshop/service-worker.js",
     "static/css/2.896ebc3e.chunk.css.map": "/ezshop/static/css/2.896ebc3e.chunk.css.map",
     "static/css/main.be8aac13.chunk.css.map": "/ezshop/static/css/main.be8aac13.chunk.css.map",
@@ -79,6 +79,6 @@
     "static/css/2.896ebc3e.chunk.css",
     "static/js/2.c1d694af.chunk.js",
     "static/css/main.be8aac13.chunk.css",
-    "static/js/main.b645987e.chunk.js"
+    "static/js/main.3fc844da.chunk.js"
   ]
 }

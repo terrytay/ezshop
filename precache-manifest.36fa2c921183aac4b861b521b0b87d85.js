@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b8df17a909db2aff7d436e4e21d9b1f",
+    "revision": "a7daa44f73a38c16ea7deb69f4cfd403",
     "url": "/ezshop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ezshop/static/css/2.896ebc3e.chunk.css"
   },
   {
-    "revision": "d343ecf7abd3474e64d1",
+    "revision": "11b687a035e2a9d98df7",
     "url": "/ezshop/static/css/main.be8aac13.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ezshop/static/js/2.c1d694af.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d343ecf7abd3474e64d1",
-    "url": "/ezshop/static/js/main.b645987e.chunk.js"
+    "revision": "11b687a035e2a9d98df7",
+    "url": "/ezshop/static/js/main.3fc844da.chunk.js"
   },
   {
     "revision": "49ae3a3a465d1d9d897e",
