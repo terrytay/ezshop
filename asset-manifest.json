@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/ezshop/static/css/main.be8aac13.chunk.css",
-    "main.js": "/ezshop/static/js/main.d60bd1ed.chunk.js",
-    "main.js.map": "/ezshop/static/js/main.d60bd1ed.chunk.js.map",
+    "main.js": "/ezshop/static/js/main.a0415385.chunk.js",
+    "main.js.map": "/ezshop/static/js/main.a0415385.chunk.js.map",
     "runtime-main.js": "/ezshop/static/js/runtime-main.d408d340.js",
     "runtime-main.js.map": "/ezshop/static/js/runtime-main.d408d340.js.map",
     "static/css/2.896ebc3e.chunk.css": "/ezshop/static/css/2.896ebc3e.chunk.css",
-    "static/js/2.480861f9.chunk.js": "/ezshop/static/js/2.480861f9.chunk.js",
-    "static/js/2.480861f9.chunk.js.map": "/ezshop/static/js/2.480861f9.chunk.js.map",
+    "static/js/2.d422e603.chunk.js": "/ezshop/static/js/2.d422e603.chunk.js",
+    "static/js/2.d422e603.chunk.js.map": "/ezshop/static/js/2.d422e603.chunk.js.map",
     "index.html": "/ezshop/index.html",
-    "precache-manifest.e01cbcb07ed8e6b3c783d510885e5d52.js": "/ezshop/precache-manifest.e01cbcb07ed8e6b3c783d510885e5d52.js",
+    "precache-manifest.734f2d4a390e3dfc7681f06217a5c373.js": "/ezshop/precache-manifest.734f2d4a390e3dfc7681f06217a5c373.js",
     "service-worker.js": "/ezshop/service-worker.js",
     "static/css/2.896ebc3e.chunk.css.map": "/ezshop/static/css/2.896ebc3e.chunk.css.map",
     "static/css/main.be8aac13.chunk.css.map": "/ezshop/static/css/main.be8aac13.chunk.css.map",
-    "static/js/2.480861f9.chunk.js.LICENSE.txt": "/ezshop/static/js/2.480861f9.chunk.js.LICENSE.txt",
+    "static/js/2.d422e603.chunk.js.LICENSE.txt": "/ezshop/static/js/2.d422e603.chunk.js.LICENSE.txt",
+    "static/media/affinity.png": "/ezshop/static/media/affinity.11c72cf1.png",
+    "static/media/collate.png": "/ezshop/static/media/collate.5a9aea2b.png",
     "static/media/earth.jpg": "/ezshop/static/media/earth.67af05e1.jpg",
     "static/media/font-awesome.css": "/ezshop/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/ionicons.css": "/ezshop/static/media/ionicons.621bd386.svg",
@@ -26,13 +28,15 @@
     "static/media/pic4.jpg": "/ezshop/static/media/pic4.b7549cae.jpg",
     "static/media/pic5.jpg": "/ezshop/static/media/pic5.03cbdfac.jpg",
     "static/media/pic6.jpg": "/ezshop/static/media/pic6.fe05f879.jpg",
-    "static/media/pic7.jpg": "/ezshop/static/media/pic7.6fdf0da3.jpg"
+    "static/media/pic7.jpg": "/ezshop/static/media/pic7.6fdf0da3.jpg",
+    "static/media/scenario.png": "/ezshop/static/media/scenario.b4b5a64f.png",
+    "static/media/table1.png": "/ezshop/static/media/table1.879551ff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d408d340.js",
     "static/css/2.896ebc3e.chunk.css",
-    "static/js/2.480861f9.chunk.js",
+    "static/js/2.d422e603.chunk.js",
     "static/css/main.be8aac13.chunk.css",
-    "static/js/main.d60bd1ed.chunk.js"
+    "static/js/main.a0415385.chunk.js"
   ]
 }

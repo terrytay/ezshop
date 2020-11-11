@@ -1,31 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "834a053fad81835e0e89d84b370e9165",
+    "revision": "ca5316984becc0ed776a02da3bd093cb",
     "url": "/ezshop/index.html"
   },
   {
-    "revision": "c791b6d0f5db39ebeb5a",
+    "revision": "dd4832003aa82995e555",
     "url": "/ezshop/static/css/2.896ebc3e.chunk.css"
   },
   {
-    "revision": "d4667928ac1bb855bb52",
+    "revision": "893a67216e71d57ac209",
     "url": "/ezshop/static/css/main.be8aac13.chunk.css"
   },
   {
-    "revision": "c791b6d0f5db39ebeb5a",
-    "url": "/ezshop/static/js/2.480861f9.chunk.js"
+    "revision": "dd4832003aa82995e555",
+    "url": "/ezshop/static/js/2.d422e603.chunk.js"
   },
   {
     "revision": "e9875d7c1187f4f0558e7fbac051f48d",
-    "url": "/ezshop/static/js/2.480861f9.chunk.js.LICENSE.txt"
+    "url": "/ezshop/static/js/2.d422e603.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4667928ac1bb855bb52",
-    "url": "/ezshop/static/js/main.d60bd1ed.chunk.js"
+    "revision": "893a67216e71d57ac209",
+    "url": "/ezshop/static/js/main.a0415385.chunk.js"
   },
   {
     "revision": "49ae3a3a465d1d9d897e",
     "url": "/ezshop/static/js/runtime-main.d408d340.js"
+  },
+  {
+    "revision": "11c72cf16083f1f311b3b8bf89e4b36a",
+    "url": "/ezshop/static/media/affinity.11c72cf1.png"
+  },
+  {
+    "revision": "5a9aea2b82a57fe5be5860d2a4540edf",
+    "url": "/ezshop/static/media/collate.5a9aea2b.png"
   },
   {
     "revision": "67af05e12311bac06327b43ca31e166b",
@@ -106,5 +114,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6fdf0da3c5c95c25454db653e004d27b",
     "url": "/ezshop/static/media/pic7.6fdf0da3.jpg"
+  },
+  {
+    "revision": "b4b5a64fbafb3958e041f59d226a6fa4",
+    "url": "/ezshop/static/media/scenario.b4b5a64f.png"
+  },
+  {
+    "revision": "879551ffb8db8912b428c77f90fc60b7",
+    "url": "/ezshop/static/media/table1.879551ff.png"
   }
 ]);
